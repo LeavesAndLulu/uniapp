@@ -11,3 +11,5 @@
 - plugins 插件库相关配置
 - store 全局变量
 - utils 公用方案
+
+- 封装用于日常uniapp开发
